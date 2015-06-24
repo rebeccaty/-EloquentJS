@@ -4,6 +4,7 @@ for (var i = "#"; i.length < 8; i += "#")
 for (var num = 1; num<= 100; num++) {
   if (num % 3 === 0 && num % 5===0) {
     console.log("FizzBuzz");
+    I don't know what I'm doing
   }
   else if (num % 3 === 0) {
     console.log("Fizz");
